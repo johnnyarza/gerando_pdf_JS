@@ -8,6 +8,7 @@
     "dev:debug": "nodemon --inspect src/server.js"
   },
   "dependencies": {
+    "chart.js": "^3.5.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "pdfmake": "^0.2.2",
